@@ -1,0 +1,3 @@
+The docs folder will contain tips and info to support Git productivity and best practices.
+
+
